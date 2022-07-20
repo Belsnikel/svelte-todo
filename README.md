@@ -1,1 +1,1 @@
-# This repo is simple svelte todo 
+# This repo is simple svelte todo list
